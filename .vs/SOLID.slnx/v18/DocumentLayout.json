@@ -3,6 +3,38 @@
   "WorkspaceRootPath": "C:\\SOLID\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SOLID\\Ejercicio6\\App.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ejercicio6\\App.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SOLID\\Ejercicio6\\Caja.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ejercicio6\\Caja.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SOLID\\Ejercicio6\\PayPal.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ejercicio6\\PayPal.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SOLID\\Ejercicio6\\MetodoPago.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ejercicio6\\MetodoPago.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SOLID\\Ejercicio5\\main.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ejercicio5\\main.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SOLID\\Ejercicio5\\dispositivos.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ejercicio5\\dispositivos.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SOLID\\Ejercicio5\\camara.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ejercicio5\\camara.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SOLID\\Ejercicio5\\mixins.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ejercicio5\\mixins.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SOLID\\Ejercicio4\\herencia3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ejercicio4\\herencia3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -66,24 +98,132 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Caja.java",
+              "DocumentMoniker": "C:\\SOLID\\Ejercicio6\\Caja.java",
+              "RelativeDocumentMoniker": "Ejercicio6\\Caja.java",
+              "ToolTip": "C:\\SOLID\\Ejercicio6\\Caja.java*",
+              "RelativeToolTip": "Ejercicio6\\Caja.java*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2026-09-01T23:34:41.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PayPal.java",
+              "DocumentMoniker": "C:\\SOLID\\Ejercicio6\\PayPal.java",
+              "RelativeDocumentMoniker": "Ejercicio6\\PayPal.java",
+              "ToolTip": "C:\\SOLID\\Ejercicio6\\PayPal.java*",
+              "RelativeToolTip": "Ejercicio6\\PayPal.java*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2026-09-01T23:31:25.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MetodoPago.java",
+              "DocumentMoniker": "C:\\SOLID\\Ejercicio6\\MetodoPago.java",
+              "RelativeDocumentMoniker": "Ejercicio6\\MetodoPago.java",
+              "ToolTip": "C:\\SOLID\\Ejercicio6\\MetodoPago.java*",
+              "RelativeToolTip": "Ejercicio6\\MetodoPago.java*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2026-09-01T23:29:09.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "App.java",
+              "DocumentMoniker": "C:\\SOLID\\Ejercicio6\\App.java",
+              "RelativeDocumentMoniker": "Ejercicio6\\App.java",
+              "ToolTip": "C:\\SOLID\\Ejercicio6\\App.java*",
+              "RelativeToolTip": "Ejercicio6\\App.java*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2026-09-01T23:28:52.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.py",
+              "DocumentMoniker": "C:\\SOLID\\Ejercicio5\\main.py",
+              "RelativeDocumentMoniker": "Ejercicio5\\main.py",
+              "ToolTip": "C:\\SOLID\\Ejercicio5\\main.py",
+              "RelativeToolTip": "Ejercicio5\\main.py",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-09-01T22:56:59.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "camara.py",
+              "DocumentMoniker": "C:\\SOLID\\Ejercicio5\\camara.py",
+              "RelativeDocumentMoniker": "Ejercicio5\\camara.py",
+              "ToolTip": "C:\\SOLID\\Ejercicio5\\camara.py",
+              "RelativeToolTip": "Ejercicio5\\camara.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-09-01T22:42:19.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "mixins.py",
+              "DocumentMoniker": "C:\\SOLID\\Ejercicio5\\mixins.py",
+              "RelativeDocumentMoniker": "Ejercicio5\\mixins.py",
+              "ToolTip": "C:\\SOLID\\Ejercicio5\\mixins.py",
+              "RelativeToolTip": "Ejercicio5\\mixins.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-09-01T22:30:40.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dispositivos.py",
+              "DocumentMoniker": "C:\\SOLID\\Ejercicio5\\dispositivos.py",
+              "RelativeDocumentMoniker": "Ejercicio5\\dispositivos.py",
+              "ToolTip": "C:\\SOLID\\Ejercicio5\\dispositivos.py",
+              "RelativeToolTip": "Ejercicio5\\dispositivos.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-09-01T22:20:22.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "herencia3.cpp",
               "DocumentMoniker": "C:\\SOLID\\Ejercicio4\\herencia3.cpp",
               "RelativeDocumentMoniker": "Ejercicio4\\herencia3.cpp",
               "ToolTip": "C:\\SOLID\\Ejercicio4\\herencia3.cpp",
               "RelativeToolTip": "Ejercicio4\\herencia3.cpp",
-              "ViewState": "AgIAADAAAAAAAAAAAAAcwDkAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAcwEMAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-08-28T22:28:37.249Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "main.py",
               "DocumentMoniker": "C:\\SOLID\\Ejercicio3\\main.py",
               "RelativeDocumentMoniker": "Ejercicio3\\main.py",
@@ -96,7 +236,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "Main.java",
               "DocumentMoniker": "C:\\SOLID\\Ejercicio2\\Main.java",
               "RelativeDocumentMoniker": "Ejercicio2\\Main.java",
@@ -109,7 +249,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 16,
               "Title": "Esqueleto.java",
               "DocumentMoniker": "C:\\SOLID\\Ejercicio2\\Esqueleto.java",
               "RelativeDocumentMoniker": "Ejercicio2\\Esqueleto.java",
@@ -122,7 +262,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "Zombie.java",
               "DocumentMoniker": "C:\\SOLID\\Ejercicio2\\Zombie.java",
               "RelativeDocumentMoniker": "Ejercicio2\\Zombie.java",
@@ -135,7 +275,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
               "Title": "MobHostil.java",
               "DocumentMoniker": "C:\\SOLID\\Ejercicio2\\MobHostil.java",
               "RelativeDocumentMoniker": "Ejercicio2\\MobHostil.java",
@@ -148,7 +288,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 17,
               "Title": "bloqueMusical.java",
               "DocumentMoniker": "C:\\SOLID\\Ejercicio2\\bloqueMusical.java",
               "RelativeDocumentMoniker": "Ejercicio2\\bloqueMusical.java",
@@ -161,7 +301,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "Puerta.java",
               "DocumentMoniker": "C:\\SOLID\\Ejercicio2\\Puerta.java",
               "RelativeDocumentMoniker": "Ejercicio2\\Puerta.java",
@@ -174,7 +314,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 15,
               "Title": "Lampara.java",
               "DocumentMoniker": "C:\\SOLID\\Ejercicio2\\Lampara.java",
               "RelativeDocumentMoniker": "Ejercicio2\\Lampara.java",
@@ -187,7 +327,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
               "Title": "Piston.java",
               "DocumentMoniker": "C:\\SOLID\\Ejercicio2\\Piston.java",
               "RelativeDocumentMoniker": "Ejercicio2\\Piston.java",
@@ -200,7 +340,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 18,
               "Title": "ActivarPorRedstone.java",
               "DocumentMoniker": "C:\\SOLID\\Ejercicio2\\ActivarPorRedstone.java",
               "RelativeDocumentMoniker": "Ejercicio2\\ActivarPorRedstone.java",
@@ -213,7 +353,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 19,
               "Title": "Mago.cs",
               "DocumentMoniker": "C:\\SOLID\\Ejercicio1\\Mago.cs",
               "RelativeDocumentMoniker": "Ejercicio1\\Mago.cs",
@@ -226,7 +366,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 20,
               "Title": "Guerrero.cs",
               "DocumentMoniker": "C:\\SOLID\\Ejercicio1\\Guerrero.cs",
               "RelativeDocumentMoniker": "Ejercicio1\\Guerrero.cs",
@@ -239,7 +379,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 21,
               "Title": "Persona.cs",
               "DocumentMoniker": "C:\\SOLID\\Ejercicio1\\Persona.cs",
               "RelativeDocumentMoniker": "Ejercicio1\\Persona.cs",
