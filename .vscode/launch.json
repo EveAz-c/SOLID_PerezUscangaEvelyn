@@ -3,5 +3,20 @@
     // Mantenga el puntero para ver las descripciones de los existentes atributos.
     // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
-    "configurations": []
+    "configurations": [
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "Liskov_Substitution_Principle.Ejemplo.main",
+            "projectName": "SOLID_81029ed3"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Liskov_Substitution_Principle.Ejemplo.Main",
+            "projectName": "SOLID_81029ed3"
+        }
+    ]
 }
