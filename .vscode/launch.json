@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SistemaBancario",
+            "request": "launch",
+            "mainClass": "Liskov_Substitution_Principle.Ejercicio6.SistemaBancario",
+            "projectName": "SOLID_81029ed3"
+        },
+        {
+            "type": "java",
+            "name": "SistemaBancario",
+            "request": "launch",
+            "mainClass": "Liskov_Substitution_Principle.Ejercicio5.SistemaBancario",
+            "projectName": "SOLID_81029ed3"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Liskov_Substitution_Principle.Ejercicio3.Main",
+            "projectName": "SOLID_81029ed3"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Liskov_Substitution_Principle.Ejercicio1.Main",
+            "projectName": "SOLID_81029ed3"
+        },
+        {
+            "type": "java",
             "name": "main",
             "request": "launch",
             "mainClass": "Liskov_Substitution_Principle.Ejemplo.main",
